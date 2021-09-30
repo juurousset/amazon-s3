@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "bitquant"
+  },
+  "bugs": {
+    "url": "https://github.com/juurousset/amazon-s3/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "crypto-js": "3.1.9-1"
+  },
+  "deprecated": false,
+  "description": "Read and write to AWS S3 using fetch()",
+  "homepage": "https://github.com/juurousset/amazon-s3#readme",
+  "keywords": [
+    "amazon",
+    "s3",
+    "aws",
+    "fetch"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "amazon-s3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juurousset/amazon-s3.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
